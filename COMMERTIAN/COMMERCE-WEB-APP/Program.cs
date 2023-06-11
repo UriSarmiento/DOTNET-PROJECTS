@@ -1,7 +1,12 @@
+using COMMERCE_WEB_APP.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<ApplicationDbContext>(options=> 
+options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"))); // Adding Entity Framework to the project
 
 var app = builder.Build();
 
