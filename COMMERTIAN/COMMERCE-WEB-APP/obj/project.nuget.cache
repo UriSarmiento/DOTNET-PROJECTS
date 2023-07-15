@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sb8GfHS5p0NLjpG/O+SQv3kKO0nKqKiYjrKRl8R98hFFx3Av2YJgz+s+1/sbdVu9q55mQgsykKlixrV3W3HXRQ==",
+  "dgSpecHash": "owhzuBnsjYCh57brxa+L5ioQg/h/9qDAxaWHGdGsM3ylUDPI71EBPVAdMO+YmZ2dAqOgcQnbkYYsAexXgoXxLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uriel\\Documents\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj",
+  "projectFilePath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uriel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\uriel\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

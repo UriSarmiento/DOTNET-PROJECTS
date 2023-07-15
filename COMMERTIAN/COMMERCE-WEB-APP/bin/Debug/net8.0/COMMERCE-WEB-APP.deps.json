@@ -218,6 +218,12 @@
       "Microsoft.Extensions.Caching.Abstractions/8.0.0-preview.4.23259.5": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Caching.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
         }
       },
       "Microsoft.Extensions.Caching.Memory/8.0.0-preview.4.23259.5": {
@@ -227,19 +233,44 @@
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
           "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5",
           "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Caching.Memory.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
         }
       },
       "Microsoft.Extensions.Configuration.Abstractions/8.0.0-preview.4.23259.5": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
         }
       },
       "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {},
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
+        }
+      },
       "Microsoft.Extensions.DependencyModel/8.0.0-preview.4.23259.5": {
         "dependencies": {
           "System.Text.Encodings.Web": "8.0.0-preview.4.23259.5",
@@ -258,16 +289,42 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
           "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
           "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {},
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
+        }
+      },
       "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
         "dependencies": {
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
           "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {},
+      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
+        }
+      },
       "Microsoft.Identity.Client/4.47.2": {
         "dependencies": {
           "Microsoft.IdentityModel.Abstractions": "6.24.0"
@@ -615,10 +672,31 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
-      "System.Text.Encodings.Web/8.0.0-preview.4.23259.5": {},
+      "System.Text.Encodings.Web/8.0.0-preview.4.23259.5": {
+        "runtime": {
+          "lib/net8.0/System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll": {
+            "rid": "browser",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
+        }
+      },
       "System.Text.Json/8.0.0-preview.4.23259.5": {
         "dependencies": {
           "System.Text.Encodings.Web": "8.0.0-preview.4.23259.5"
+        },
+        "runtime": {
+          "lib/net8.0/System.Text.Json.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.25905"
+          }
         }
       },
       "System.Threading.Tasks.Extensions/4.5.4": {},

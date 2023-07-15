@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uriel\\Documents\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj": {}
+    "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uriel\\Documents\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj": {
+    "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uriel\\Documents\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj",
+        "projectUniqueName": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj",
         "projectName": "COMMERCE-WEB-APP",
-        "projectPath": "C:\\Users\\uriel\\Documents\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj",
+        "projectPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj",
         "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uriel\\Documents\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\obj\\",
+        "outputPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\uriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.4.23260.5\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,6 +34,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -79,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.4.23260.5\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.2.23157.25\\RuntimeIdentifierGraph.json"
         }
       }
     }

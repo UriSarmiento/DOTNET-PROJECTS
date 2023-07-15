@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using COMMERCE_WEB_APP.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace COMMERCE_WEB_APP.Data
 {
@@ -10,5 +11,6 @@ namespace COMMERCE_WEB_APP.Data
         {
             
         }
+        public DbSet<Category> Categories { get; set; }
     }
 }
