@@ -1,0 +1,25 @@
+﻿<!-- Here we tell the view that it will receive a model of type List<Category> 
+	We send this model to the list from the Category controller-->
+@model List<Category>; 
+
+<h1>Category List</h1>
+<table class="table table-bordered table-striped">
+	<thead>
+		<tr class="table-info">
+		<th>Category Name</th>
+		<th>Display Order</th>
+	</tr>
+	</thead>
+	<tbody> <!-- We can use C# code, in this case we are using the model received from the controller
+	and we are using it to extract the data in a foreach cycle, its cycling through the category list and
+	displaying the name and display order in the rows of the html table
+	-->
+		@foreach(var obj in Model)
+		{
+			<tr class="table-dark">
+				<td>@obj.Name</td>
+				<td>@obj.DisplayOrder</td>
+			</tr>
+		}
+	</tbody>
+</table>
