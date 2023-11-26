@@ -2,7 +2,22 @@
 	We send this model to the list from the Category controller-->
 @model List<Category>; 
 
-<h1>Category List</h1>
+<div class="container ">
+
+	<div class="row pt-4">
+		<div class="col-6">
+			<h2 class="text-primary">
+				Category List
+			</h2>
+		</div>
+		<div class="col-6 text-end">
+			<a asp-controller = "Category" asp-action="Create" class="btn btn-primary"> <!--As we already created an action method in the controller, we just need to add the name as asp-action -->
+				<i class="bi bi-file-earmark-plus-fill"></i> Create New Category <!-- still is better to specify the controller, for when the project has many files-->
+			</a>
+		</div>
+	</div>
+
+
 <table class="table table-bordered table-striped">
 	<thead>
 		<tr class="table-info">
@@ -23,3 +38,5 @@
 		}
 	</tbody>
 </table>
+
+</div>

@@ -13,9 +13,10 @@ namespace COMMERCE_WEB_APP.Data
             
         }
         public DbSet<Category> Categories { get; set; }
+		public DbSet<Users> Users { get; set; }
 
-        // Its a base class from application DB context, we are overriding it to modify the basic functioning
-        protected override void OnModelCreating(ModelBuilder modelBuilder) 
+		// Its a base class from application DB context, we are overriding it to modify the basic functioning
+		protected override void OnModelCreating(ModelBuilder modelBuilder) 
         {
             // We create a new modelBuilder object and use it to add categories to the Category table
             modelBuilder.Entity<Category>().HasData( // This function expects an array, so we add all the categories we want separated by a comma
@@ -24,6 +25,9 @@ namespace COMMERCE_WEB_APP.Data
                 new Category { CategoryId = 3, Name = "Comedy", DisplayOrder = 3 },
                 new Category { CategoryId = 4, Name = "Romance", DisplayOrder = 4 }
                 );
-        }
+			modelBuilder.Entity<Users>().HasData( // This function expects an array, so we add all the categories we want separated by a comma
+				new Users { UserId = 1, UserName = "Administrator", Password = "Admin1997" }
+				);
+		}
     }
 }

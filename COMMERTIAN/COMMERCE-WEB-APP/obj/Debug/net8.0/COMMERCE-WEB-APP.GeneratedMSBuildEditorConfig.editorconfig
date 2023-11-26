@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/uriel/OneDrive/Documentos/GitHub/DOTNET-PROJECTS/COMMERTIAN/COMMERCE-WEB-APP/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/uriel/OneDrive/Documentos/GitHub/DOTNET-PROJECTS/COMMERTIAN/COMMERCE-WEB-APP/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/uriel/OneDrive/Documentos/GitHub/DOTNET-PROJECTS/COMMERTIAN/COMMERCE-WEB-APP/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/uriel/OneDrive/Documentos/GitHub/DOTNET-PROJECTS/COMMERTIAN/COMMERCE-WEB-APP/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/uriel/OneDrive/Documentos/GitHub/DOTNET-PROJECTS/COMMERTIAN/COMMERCE-WEB-APP/Views/_ViewImports.cshtml]
