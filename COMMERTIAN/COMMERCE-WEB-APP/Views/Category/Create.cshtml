@@ -26,5 +26,13 @@
 			<a asp-controller="Category" asp-action="Index" class="btn btn-secondary border form-control">Back</a>
 		</div>
 	</div>
-	
+	<!-- We add the partial view to do client side validations-->
 </form>
+
+@section Scripts {
+
+	@{
+		<partial name = "_ValidationScriptsPartial"/>
+	}
+
+}

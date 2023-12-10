@@ -26,7 +26,7 @@ namespace COMMERCE_WEB_APP.Data
                 new Category { CategoryId = 4, Name = "Romance", DisplayOrder = 4 }
                 );
 			modelBuilder.Entity<Users>().HasData( // This function expects an array, so we add all the categories we want separated by a comma
-				new Users { UserId = 1, UserName = "Administrator", Password = "Admin1997" }
+				new Users { UserId = 1, UserName = "Administrator", Password = "Admin1997", ActiveFlag = true }
 				);
 		}
     }

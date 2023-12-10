@@ -35,5 +35,8 @@ namespace COMMERCE_WEB_APP.Controllers
 			}
 			return View();
 		}
+
+		public bool IsActive(Users obj) // Checks if the user is actve
+		{ return obj.ActiveFlag; }
 	}
 }

@@ -76,6 +76,9 @@ namespace COMMERCE_WEB_APP.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("UserId"));
 
+                    b.Property<bool>("ActiveFlag")
+                        .HasColumnType("bit");
+
                     b.Property<string>("Password")
                         .IsRequired()
                         .HasMaxLength(15)
@@ -94,6 +97,7 @@ namespace COMMERCE_WEB_APP.Migrations
                         new
                         {
                             UserId = 1,
+                            ActiveFlag = true,
                             Password = "Admin1997",
                             UserName = "Administrator"
                         });

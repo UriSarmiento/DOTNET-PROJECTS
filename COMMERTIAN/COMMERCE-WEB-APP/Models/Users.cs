@@ -15,5 +15,6 @@ namespace COMMERCE_WEB_APP.Models
 		[MinLength(6, ErrorMessage = "Password has to be at least 6 characters long")]
 		[MaxLength(15)]
 		public string Password { get; set; }
+		public bool ActiveFlag { get; set; }
 	}
 }
