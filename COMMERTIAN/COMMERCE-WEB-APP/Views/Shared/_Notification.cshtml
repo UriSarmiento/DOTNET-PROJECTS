@@ -1,0 +1,22 @@
+﻿<!-- This partial view has all the code for notifications shown with temp data -->
+<!-- The name starts with _ because its a partial view -->
+
+@if (TempData["success"] is not null)
+{
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+	<script type="text/javascript">
+		toastr.options.positionClass = 'toast-bottom-right';
+		toastr.success('@TempData["success"]');
+	</script>
+}
+
+@if (TempData["error"] is not null)
+{
+	<script src="~/lib/jquery/dist/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+	<script type="text/javascript">
+		toastr.options.positionClass = 'toast-bottom-right';
+		toastr.error('@TempData["error"]');
+	</script>
+}

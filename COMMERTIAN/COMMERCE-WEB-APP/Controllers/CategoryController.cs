@@ -34,6 +34,7 @@ namespace COMMERCE_WEB_APP.Controllers
             {
                 _db.Categories.Add(obj); // Here we're telling the controller that it needs to add the category to the table, but not saving yet
                 _db.SaveChanges(); //Will save all the changes made, like doing a commit in SQL
+                TempData["success"] = "Category " + obj.Name + " created successfully"; //Temp data only stays for one request, if you refresh the message goes away                
                 return RedirectToAction("Index", "Category"); // We are being explicit redirecting to Index action from the Category Controller, but if we are on the same controller you can just write the action
 
             }
@@ -66,7 +67,8 @@ namespace COMMERCE_WEB_APP.Controllers
             {
                 _db.Categories.Update(obj); // Here we're telling the controller that it needs to add the category to the table, but not saving yet
                 _db.SaveChanges(); //Will save all the changes made, like doing a commit in SQL
-                return RedirectToAction("Index", "Category"); // We are being explicit redirecting to Index action from the Category Controller, but if we are on the same controller you can just write the action
+				TempData["success"] = "Category " + obj.Name + " updated successfully";
+				return RedirectToAction("Index", "Category"); // We are being explicit redirecting to Index action from the Category Controller, but if we are on the same controller you can just write the action
 
             }
             return View();
@@ -89,10 +91,12 @@ namespace COMMERCE_WEB_APP.Controllers
 		[HttpPost, ActionName("Delete")]
 		public IActionResult DeletePOST(int? CategoryId) // Receives the input data in the Create views form
 		{
+            string? TempName;
 
             Category? obj = _db.Categories.Find(CategoryId);
+            TempName = obj.Name;
 
-            if (obj == null)
+			if (obj == null)
             {
                 return NotFound();
             }
@@ -100,6 +104,7 @@ namespace COMMERCE_WEB_APP.Controllers
 
 				_db.Categories.Remove(obj);
 				_db.SaveChanges();
+				TempData["success"] = "Category " + TempName + " deleted successfully";
 				return RedirectToAction("Index", "Category");
 
 			}
