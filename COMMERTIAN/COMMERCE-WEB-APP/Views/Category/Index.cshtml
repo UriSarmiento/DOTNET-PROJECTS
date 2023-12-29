@@ -32,7 +32,7 @@
 	and we are using it to extract the data in a foreach cycle, its cycling through the category list and
 	displaying the name and display order in the rows of the html table
 	-->
-		@foreach(var obj in Model)
+			@foreach (var obj in Model.OrderBy(u => u.DisplayOrder))
 		{
 			<tr class="table-dark">
 				<td>@obj.Name</td>

@@ -8245,9 +8245,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj",
-      "projectName": "COMMERCE-WEB-APP",
-      "projectPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\COMMERCE-WEB-APP.csproj",
+      "projectUniqueName": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM.csproj",
+      "projectName": "ECOMM",
+      "projectPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM.csproj",
       "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\obj\\",
       "projectStyle": "PackageReference",

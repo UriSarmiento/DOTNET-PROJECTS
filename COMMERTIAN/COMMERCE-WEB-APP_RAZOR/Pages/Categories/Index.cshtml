@@ -1,0 +1,54 @@
+﻿@page
+@model COMMERCE_WEB_APP_RAZOR.Pages.Categories.IndexModel
+
+<div class="container ">
+
+	<div class="row pt-4">
+		<div class="col-6">
+			<h2 class="text-primary">
+				Category List
+			</h2>
+		</div>
+		<div class="col-6 text-end">
+			<a asp-page="/Categories/Create" class="btn btn-primary">
+				<!--As we already created an action method in the controller, we just need to add the name as asp-action -->
+				<i class="bi bi-file-earmark-plus-fill"></i> Create New Category <!-- still is better to specify the controller, for when the project has many files-->
+			</a>
+		</div>
+	</div>
+
+
+	<table class="table table-bordered table-striped">
+		<thead>
+			<tr class="table-info">
+				<th>Category Name</th>
+				<th>Display Order</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			<!-- We can use C# code, in this case we are using the model received from the controller
+			and we are using it to extract the data in a foreach cycle, its cycling through the category list and
+			displaying the name and display order in the rows of the html table
+			-->
+			@foreach (var obj in Model.CategoryList.OrderBy(u=>u.DisplayOrder))
+			{
+				<tr class="table-dark">
+					<td>@obj.Name</td>
+					<td>@obj.DisplayOrder</td>
+					<td>
+						<div class="w-75 btn-group" role="group">
+							<a asp-page="/Categories/Edit" asp-route-CategoryId="@obj.CategoryId" class="btn btn-primary mx-2">
+								<i class="bi bi-pencil-square"></i> Edit
+							</a>
+							<a asp-page="/Categories/Delete" asp-route-CategoryId="@obj.CategoryId" class="btn btn-danger mx-2">
+								<i class="bi bi-trash-fill"></i> Delete
+							</a>
+						</div>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+</div>
