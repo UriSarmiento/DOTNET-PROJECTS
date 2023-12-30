@@ -59,7 +59,7 @@ namespace COMMERCE_WEB_APP.Controllers
         [HttpPost]
         public IActionResult Edit(Category obj) // Receives the input data in the Create views form
         {
-            if (_db.Categories.Where(u => u.DisplayOrder == obj.DisplayOrder).FirstOrDefault() is not null)
+            if (_db.Categories.Where(u => u.DisplayOrder == obj.DisplayOrder && u.CategoryId != obj.CategoryId).FirstOrDefault() is not null)
             {
 				ModelState.AddModelError("DisplayOrder", "There cannot be repeated display orders."); // Adding a custom validation
 			}
