@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\UNUSED-ECOMM_RAZOR.props" />
+</Project>

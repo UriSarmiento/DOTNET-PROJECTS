@@ -1,0 +1,15 @@
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\bin\Debug\net8.0\ECOMM.Models.deps.json
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\bin\Debug\net8.0\ECOMM.Models.runtimeconfig.json
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\bin\Debug\net8.0\ECOMM.Models.dll
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\bin\Debug\net8.0\ECOMM.Models.pdb
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.csproj.AssemblyReference.cache
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.AssemblyInfoInputs.cache
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.AssemblyInfo.cs
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.csproj.CoreCompileInputs.cache
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.sourcelink.json
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.dll
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\refint\ECOMM.Models.dll
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.pdb
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.genruntimeconfig.cache
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ref\ECOMM.Models.dll

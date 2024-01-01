@@ -1,6 +1,6 @@
-﻿using COMMERCE_WEB_APP.Data;
+﻿using ECOMM.DataAccess.Data;
+using ECOMM.Models;
 using Microsoft.AspNetCore.Mvc;
-using COMMERCE_WEB_APP.Models;
 
 namespace COMMERCE_WEB_APP.Controllers
 {

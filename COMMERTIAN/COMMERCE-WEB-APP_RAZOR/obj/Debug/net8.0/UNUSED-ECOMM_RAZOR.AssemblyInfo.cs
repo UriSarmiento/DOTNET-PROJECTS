@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UNUSED-ECOMM_RAZOR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa80bbb897781093fed9907e8f4579a4cc4a2609")]
 [assembly: System.Reflection.AssemblyProductAttribute("UNUSED-ECOMM_RAZOR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UNUSED-ECOMM_RAZOR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

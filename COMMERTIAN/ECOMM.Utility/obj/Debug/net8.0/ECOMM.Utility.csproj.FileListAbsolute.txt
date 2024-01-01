@@ -1,0 +1,15 @@
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\bin\Debug\net8.0\ECOMM.Utility.deps.json
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\bin\Debug\net8.0\ECOMM.Utility.runtimeconfig.json
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\bin\Debug\net8.0\ECOMM.Utility.dll
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\bin\Debug\net8.0\ECOMM.Utility.pdb
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.csproj.AssemblyReference.cache
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.AssemblyInfoInputs.cache
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.AssemblyInfo.cs
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.csproj.CoreCompileInputs.cache
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.sourcelink.json
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.dll
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\refint\ECOMM.Utility.dll
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.pdb
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.genruntimeconfig.cache
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ref\ECOMM.Utility.dll

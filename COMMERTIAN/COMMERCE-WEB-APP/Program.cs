@@ -1,4 +1,4 @@
-using COMMERCE_WEB_APP.Data;
+using ECOMM.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

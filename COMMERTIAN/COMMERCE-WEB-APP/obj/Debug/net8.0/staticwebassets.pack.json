@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ECOMM.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ECOMM.bundle.scp.css"
+      "Id": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\COMMERCE_WEB_APP.bundle.scp.css",
+      "PackagePath": "staticwebassets\\COMMERCE_WEB_APP.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ECOMM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.COMMERCE_WEB_APP.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ECOMM.props",
-      "PackagePath": "build\\ECOMM.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.COMMERCE_WEB_APP.props",
+      "PackagePath": "build\\COMMERCE_WEB_APP.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ECOMM.props",
-      "PackagePath": "buildMultiTargeting\\ECOMM.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.COMMERCE_WEB_APP.props",
+      "PackagePath": "buildMultiTargeting\\COMMERCE_WEB_APP.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ECOMM.props",
-      "PackagePath": "buildTransitive\\ECOMM.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.COMMERCE_WEB_APP.props",
+      "PackagePath": "buildTransitive\\COMMERCE_WEB_APP.props"
     }
   ],
   "ElementsToRemove": []

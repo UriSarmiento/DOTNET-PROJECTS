@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\COMMERCE-WEB-APP_RAZOR.bundle.scp.css",
-      "PackagePath": "staticwebassets\\COMMERCE-WEB-APP_RAZOR.bundle.scp.css"
+      "Id": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UNUSED-ECOMM_RAZOR.bundle.scp.css",
+      "PackagePath": "staticwebassets\\UNUSED-ECOMM_RAZOR.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\wwwroot\\css\\site.css",
@@ -245,20 +245,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.COMMERCE-WEB-APP_RAZOR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UNUSED-ECOMM_RAZOR.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.COMMERCE-WEB-APP_RAZOR.props",
-      "PackagePath": "build\\COMMERCE-WEB-APP_RAZOR.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UNUSED-ECOMM_RAZOR.props",
+      "PackagePath": "build\\UNUSED-ECOMM_RAZOR.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.COMMERCE-WEB-APP_RAZOR.props",
-      "PackagePath": "buildMultiTargeting\\COMMERCE-WEB-APP_RAZOR.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UNUSED-ECOMM_RAZOR.props",
+      "PackagePath": "buildMultiTargeting\\UNUSED-ECOMM_RAZOR.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.COMMERCE-WEB-APP_RAZOR.props",
-      "PackagePath": "buildTransitive\\COMMERCE-WEB-APP_RAZOR.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UNUSED-ECOMM_RAZOR.props",
+      "PackagePath": "buildTransitive\\UNUSED-ECOMM_RAZOR.props"
     }
   ],
   "ElementsToRemove": []
