@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ECOMM.DataAccess.Repository.IRepository
 {
-	internal interface IRepository <T> where T : class
+	public interface IRepository <T> where T : class
 	{
 		// The update is not in the generic repository as logic for updates might be differente depending on the model
 		//T es category o cualquier otro modelo que usemos
