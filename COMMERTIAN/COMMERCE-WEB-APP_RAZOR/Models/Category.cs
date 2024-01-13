@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace COMMERCE_WEB_APP_RAZOR.Models
+namespace ECOMM_WEB_RAZOR.Models
 {
     public class Category
     {

@@ -10,6 +10,6 @@ namespace ECOMM.DataAccess.Repository.IRepository
 	public interface ICategoryRepository : IRepository<Category> // This calls the IRepository which has the generic implementation, and give it te Category model 
 	{
 		void Update(Category obj);
-		void Save();
+
 	}
 }

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ECOMM_WEB.props" />
+</Project>

@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>COMMERCE_WEB_APP_RAZOR</RootNamespace>
+    <RootNamespace>ECOMM_WEB_RAZOR</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,9 +1,9 @@
-using COMMERCE_WEB_APP_RAZOR.Data;
-using COMMERCE_WEB_APP_RAZOR.Models;
+using ECOMM_WEB_RAZOR.Data;
+using ECOMM_WEB_RAZOR.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace COMMERCE_WEB_APP_RAZOR.Pages.Categories
+namespace ECOMM_WEB_RAZOR.Pages.Categories
 {
     public class IndexModel : PageModel
     {

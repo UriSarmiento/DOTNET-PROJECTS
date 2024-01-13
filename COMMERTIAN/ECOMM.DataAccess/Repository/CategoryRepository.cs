@@ -21,10 +21,7 @@ namespace ECOMM.DataAccess.Repository
         }
 
 
-        public void Save()
-		{
-			_db.SaveChanges();
-		}
+
 
 		public void Update(Category obj)
 		{

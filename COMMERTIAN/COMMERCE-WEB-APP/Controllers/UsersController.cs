@@ -2,7 +2,7 @@
 using ECOMM.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace COMMERCE_WEB_APP.Controllers
+namespace ECOMM_WEB.Controllers
 {
 	public class UsersController : Controller
 	{

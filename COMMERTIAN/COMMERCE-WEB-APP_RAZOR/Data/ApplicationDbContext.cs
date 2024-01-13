@@ -1,8 +1,8 @@
-﻿using COMMERCE_WEB_APP_RAZOR.Models;
+﻿using ECOMM_WEB_RAZOR.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace COMMERCE_WEB_APP_RAZOR.Data
+namespace ECOMM_WEB_RAZOR.Data
 {
     // Basic configuration for entity framework
     public class ApplicationDbContext : DbContext // DbContext is the root clase of entity framework core 

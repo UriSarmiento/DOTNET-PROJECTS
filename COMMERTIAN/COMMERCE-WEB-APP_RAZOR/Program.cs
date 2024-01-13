@@ -1,4 +1,4 @@
-using COMMERCE_WEB_APP_RAZOR.Data;
+using ECOMM_WEB_RAZOR.Data;
 using Microsoft.EntityFrameworkCore;
 
 

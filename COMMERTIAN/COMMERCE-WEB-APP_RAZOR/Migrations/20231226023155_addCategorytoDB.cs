@@ -4,7 +4,7 @@
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace COMMERCE_WEB_APP_RAZOR.Migrations
+namespace ECOMM_WEB_RAZOR.Migrations
 {
     /// <inheritdoc />
     public partial class addCategorytoDB : Migration

@@ -68,6 +68,114 @@ namespace ECOMM.DataAccess.Migrations
                         });
                 });
 
+            modelBuilder.Entity("ECOMM.Models.Product", b =>
+                {
+                    b.Property<int>("ProductId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductId"));
+
+                    b.Property<string>("Author")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ISBN")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("ListPrice")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Price100")
+                        .HasColumnType("float");
+
+                    b.Property<double>("Price50")
+                        .HasColumnType("float");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ProductId");
+
+                    b.HasIndex("CategoryId");
+
+                    b.ToTable("Product");
+
+                    b.HasData(
+                        new
+                        {
+                            ProductId = 1,
+                            Author = "Caulo Poelho",
+                            CategoryId = 3,
+                            Description = "Coleccion del maestrazo",
+                            ISBN = "1024010601",
+                            ImageUrl = "",
+                            ListPrice = 20.5,
+                            Price = 5.0,
+                            Price100 = 2.5,
+                            Price50 = 3.5,
+                            Title = "Coleccion Paulo Coelho"
+                        },
+                        new
+                        {
+                            ProductId = 2,
+                            Author = "Ay Rubiuh no seas malo",
+                            CategoryId = 2,
+                            Description = "Obra maestra de la literatura moderna",
+                            ISBN = "1024010602",
+                            ImageUrl = "",
+                            ListPrice = 20.5,
+                            Price = 5.0,
+                            Price100 = 2.5,
+                            Price50 = 3.5,
+                            Title = "El libro troll del Rubius"
+                        },
+                        new
+                        {
+                            ProductId = 3,
+                            Author = "Sancho Panza",
+                            CategoryId = 4,
+                            Description = "Clasico",
+                            ISBN = "1024010603",
+                            ImageUrl = "",
+                            ListPrice = 20.5,
+                            Price = 5.0,
+                            Price100 = 2.5,
+                            Price50 = 3.5,
+                            Title = "El cipote de la mancha"
+                        },
+                        new
+                        {
+                            ProductId = 4,
+                            Author = "Charlie Chaplin",
+                            CategoryId = 1,
+                            Description = "Senor de bigote chistoso escribe un libro y lo publica",
+                            ISBN = "1024010604",
+                            ImageUrl = "",
+                            ListPrice = 20.5,
+                            Price = 5.0,
+                            Price100 = 2.5,
+                            Price50 = 3.5,
+                            Title = "Mein Kampf"
+                        });
+                });
+
             modelBuilder.Entity("ECOMM.Models.Users", b =>
                 {
                     b.Property<int>("UserId")
@@ -101,6 +209,17 @@ namespace ECOMM.DataAccess.Migrations
                             Password = "Admin1997",
                             UserName = "Administrator"
                         });
+                });
+
+            modelBuilder.Entity("ECOMM.Models.Product", b =>
+                {
+                    b.HasOne("ECOMM.Models.Category", "Category")
+                        .WithMany()
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 #pragma warning restore 612, 618
         }

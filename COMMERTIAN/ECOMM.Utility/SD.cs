@@ -8,5 +8,6 @@ namespace ECOMM.Utility
 {
 	internal static class SD
 	{
-	}
+
+    }
 }
