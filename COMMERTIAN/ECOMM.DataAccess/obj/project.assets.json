@@ -2745,7 +2745,10 @@
         },
         "runtime": {
           "bin/placeholder/ECOMM.Models.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "ECOMM.Utility/1.0.0": {
         "type": "project",

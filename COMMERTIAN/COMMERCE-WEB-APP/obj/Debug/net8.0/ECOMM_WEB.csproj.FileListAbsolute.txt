@@ -257,3 +257,4 @@ C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WE
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ECOMM_WEB.pdb
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ECOMM_WEB.genruntimeconfig.cache
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ref\ECOMM_WEB.dll
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ECOMM_WEB.MvcApplicationPartsAssemblyInfo.cs
