@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i0kgvBnIH3uDRZjiYd0FsD4rNg35fnq7dKIZVu3ezHg=",
+  "Hash": "i5gHCB3x3g7EjAPyPop07ndLM7XO03xxls664TOvU4M=",
   "Source": "ECOMM_WEB",
   "BasePath": "_content/ECOMM_WEB",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\wwwroot\\images\\product\\0d20dbcf-dd1c-43ea-9bcd-ac181d3d8f97.jpg",
+      "SourceId": "ECOMM_WEB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\wwwroot\\",
+      "BasePath": "_content/ECOMM_WEB",
+      "RelativePath": "images/product/0d20dbcf-dd1c-43ea-9bcd-ac181d3d8f97.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\0d20dbcf-dd1c-43ea-9bcd-ac181d3d8f97.jpg"
     },
     {
       "Identity": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\wwwroot\\js\\site.js",

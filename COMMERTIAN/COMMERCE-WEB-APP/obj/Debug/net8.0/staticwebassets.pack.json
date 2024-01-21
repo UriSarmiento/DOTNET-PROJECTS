@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\wwwroot\\images\\product\\0d20dbcf-dd1c-43ea-9bcd-ac181d3d8f97.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0d20dbcf-dd1c-43ea-9bcd-ac181d3d8f97.jpg"
+    },
+    {
       "Id": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
