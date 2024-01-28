@@ -26,7 +26,7 @@ namespace COMMERCE_WEB_APP.Areas.Admin.Controllers
         */
         public IActionResult Index()
         {
-            List<Product> objProductList = _unitOfWork.Product.GetAll().ToList();
+            List<Product> objProductList = _unitOfWork.Product.GetAll(includeProperties:"Category").ToList();
             return View(objProductList);
         }
 
@@ -173,5 +173,16 @@ namespace COMMERCE_WEB_APP.Areas.Admin.Controllers
             }
 
         }
+        #region API CALLS
+
+        [HttpGet]
+        public IActionResult GetAll(int? ProductId) 
+        {
+            List<Product> objProductList = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
+            return Json(new { data = objProductList });
+        }
+
+        #endregion
+
     }
 }

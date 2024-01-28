@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ECOMM_WEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa8f13e586b893a9164b9c13d824de69bda9b821")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53a23593dccdaadd2d25b88285e9eb77fcd1da58")]
 [assembly: System.Reflection.AssemblyProductAttribute("ECOMM_WEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ECOMM_WEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
