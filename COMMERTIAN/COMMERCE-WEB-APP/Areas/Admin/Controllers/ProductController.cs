@@ -133,7 +133,7 @@ namespace COMMERCE_WEB_APP.Areas.Admin.Controllers
 			
             
         }
-       
+ /*      
         public IActionResult Delete(int? ProductId) 
         {
             if (ProductId == null || ProductId == 0)
@@ -173,6 +173,7 @@ namespace COMMERCE_WEB_APP.Areas.Admin.Controllers
             }
 
         }
+ */
         #region API CALLS
 
         [HttpGet]
@@ -182,6 +183,32 @@ namespace COMMERCE_WEB_APP.Areas.Admin.Controllers
             return Json(new { data = objProductList });
         }
 
+        [HttpDelete]
+    public IActionResult Delete (int? ProductId)
+        {
+
+            var productToBeDeleted = _unitOfWork.Product.Get(u => u.ProductId == ProductId);
+
+            if(productToBeDeleted == null)
+            {
+                return Json(new { success = false, message = "Error while deleting" });
+            }
+
+            var oldImagePath =
+				Path.Combine(_webHostEnvironment.WebRootPath, 
+                productToBeDeleted.ImageUrl.TrimStart('\\')); // The trim removes the first backslash in the route
+
+			if (System.IO.Path.Exists(oldImagePath))
+			{
+				System.IO.File.Delete(oldImagePath);
+			}
+
+            _unitOfWork.Product.Remove(productToBeDeleted);
+            _unitOfWork.Save();
+
+            //List<Product> objsuccessProductList = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
+            return Json(new { success = true, message = "Delete Successful" });
+		}
         #endregion
 
     }
