@@ -251,10 +251,10 @@ C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WE
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\scopedcss\bundle\ECOMM_WEB.styles.css
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\scopedcss\projectbundle\ECOMM_WEB.bundle.scp.css
-C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ECOMM_WEB.csproj.CopyComplete
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ECOMM_WEB.dll
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\refint\ECOMM_WEB.dll
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ECOMM_WEB.pdb
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ECOMM_WEB.genruntimeconfig.cache
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ref\ECOMM_WEB.dll
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ECOMM_WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\COMMERCE-WEB-APP\obj\Debug\net8.0\ECOMM_WEB.csproj.Up2Date

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|c:\\users\\uriel\\onedrive\\documentos\\github\\dotnet-projects\\commertian\\commerce-web-app\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|solutionrelative:commerce-web-app\\wwwroot\\js\\product.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|c:\\users\\uriel\\onedrive\\documentos\\github\\dotnet-projects\\commertian\\commerce-web-app\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|solutionrelative:commerce-web-app\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|c:\\users\\uriel\\onedrive\\documentos\\github\\dotnet-projects\\commertian\\commerce-web-app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|solutionrelative:commerce-web-app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|c:\\users\\uriel\\onedrive\\documentos\\github\\dotnet-projects\\commertian\\commerce-web-app\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|solutionrelative:commerce-web-app\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|c:\\users\\uriel\\onedrive\\documentos\\github\\dotnet-projects\\commertian\\commerce-web-app\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|solutionrelative:commerce-web-app\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|c:\\users\\uriel\\onedrive\\documentos\\github\\dotnet-projects\\commertian\\commerce-web-app\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|solutionrelative:commerce-web-app\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|c:\\users\\uriel\\onedrive\\documentos\\github\\dotnet-projects\\commertian\\commerce-web-app\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|solutionrelative:commerce-web-app\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|c:\\users\\uriel\\onedrive\\documentos\\github\\dotnet-projects\\commertian\\commerce-web-app\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|solutionrelative:commerce-web-app\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|c:\\users\\uriel\\onedrive\\documentos\\github\\dotnet-projects\\commertian\\commerce-web-app\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8E3906C5-146D-455F-A68D-A6B6A1CA5898}|COMMERCE-WEB-APP\\ECOMM_WEB.csproj|solutionrelative:commerce-web-app\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "COMMERCE-WEB-APP\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "COMMERCE-WEB-APP\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAL0AAAAAAAAAAAAAANAAAAB3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-07T02:26:21.684Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T22:20:08.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T22:07:42.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "COMMERCE-WEB-APP\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "COMMERCE-WEB-APP\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "COMMERCE-WEB-APP\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "COMMERCE-WEB-APP\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-07T02:26:08.556Z",
+              "WhenOpened": "2024-02-25T22:06:55.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "product.js",
-              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\wwwroot\\js\\product.js",
-              "RelativeDocumentMoniker": "COMMERCE-WEB-APP\\wwwroot\\js\\product.js",
-              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\wwwroot\\js\\product.js",
-              "RelativeToolTip": "COMMERCE-WEB-APP\\wwwroot\\js\\product.js",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-02-07T02:16:33.181Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "COMMERCE-WEB-APP\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T20:56:18.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "COMMERCE-WEB-APP\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "COMMERCE-WEB-APP\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-07T02:16:08.994Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "COMMERCE-WEB-APP\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "COMMERCE-WEB-APP\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:50:44.917Z",
               "EditorCaption": ""
             }
           ]

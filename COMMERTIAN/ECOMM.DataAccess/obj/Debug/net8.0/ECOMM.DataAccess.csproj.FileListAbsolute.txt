@@ -12,9 +12,9 @@ C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataA
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.AssemblyInfo.cs
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.sourcelink.json
-C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.csproj.CopyComplete
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.dll
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\refint\ECOMM.DataAccess.dll
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.pdb
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.genruntimeconfig.cache
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ref\ECOMM.DataAccess.dll
+C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.Da.79DD7DD9.Up2Date
