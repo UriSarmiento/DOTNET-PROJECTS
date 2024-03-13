@@ -1,0 +1,12 @@
+
+COMMERTIAN/.vs/COMMERTIAN/DesignTimeBuild/.dtbcache.v2
+*.vsidx
+*.v2
+COMMERTIAN/.vs/COMMERTIAN/v17/.suo
+*.bin
+*.dll
+*.pdb
+*.exe
+*.cache
+*.editorconfig
+*.pdb
