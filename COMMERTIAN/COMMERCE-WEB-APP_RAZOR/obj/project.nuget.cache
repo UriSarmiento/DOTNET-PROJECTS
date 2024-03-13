@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Chq41YHfckjYFiDWvLKhYehwulN08HEMpPtf+CKLBjBJ0EWZsUoDDSVEsWzrFx8Pn0PYxlVw0+ECRoodCnhKkw==",
+  "dgSpecHash": "5xgpvEFFgCLlXayLmujNCQuvM+KVWI4hY4DZrzDd0gTtIkGVYV6dKpl7Mxq5+i/aaku+twxG7qwk1uIdYvSL1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj",
+  "projectFilePath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uriel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\uriel\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

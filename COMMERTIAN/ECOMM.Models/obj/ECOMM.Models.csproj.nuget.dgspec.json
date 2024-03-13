@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {}
+    "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {
+    "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
+        "projectUniqueName": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
         "projectName": "ECOMM.Models",
-        "projectPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
+        "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
         "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\obj\\",
+        "outputPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

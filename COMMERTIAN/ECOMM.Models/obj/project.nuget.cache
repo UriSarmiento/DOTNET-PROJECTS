@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X+qSG6OTZDJP8mFs9Npp8Si7O61isLNyqtDdmUuYZ89VFuhwDP6Gt9OtFYvs+Q3FJwWHULElsEW2aZQ6oGSdwQ==",
+  "dgSpecHash": "zEA+lUq+wkhLVxMxqH7Aj6vfeZe1nsTRozXYZjXJW4F5RvTdIutqPNxRlxX23+iKLPdWxOJdCSQngjbgGl9DZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
+  "projectFilePath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uriel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\uriel\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

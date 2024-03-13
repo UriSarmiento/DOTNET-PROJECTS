@@ -7697,11 +7697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj",
+      "projectUniqueName": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj",
       "projectName": "ECOMM.Utility",
-      "projectPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj",
+      "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj",
       "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\obj\\",
+      "outputPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

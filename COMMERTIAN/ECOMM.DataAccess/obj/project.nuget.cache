@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N/grbXZRoHGNTdvFnW9ZLWaz3cMDY33jBVJNkNGUfCIllUkTVStjiWiE3UyyLVABc3Ur8tJJJ+IIthvwJKrKcQ==",
+  "dgSpecHash": "hcgBsCmCjdl1c2Tiuytt5W0RkdxPxaugCWt8uaYFohzU9usBYWnd9gff3VCqHycHbCwiJpUW7JlMw9q6ABaHiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uriel\\OneDrive\\Documentos\\GitHub\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj",
+  "projectFilePath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uriel\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\uriel\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

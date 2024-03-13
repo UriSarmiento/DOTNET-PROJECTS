@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "ECOMM.DataAccess\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.DataAccess\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "ECOMM.DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T11:55:47.923Z",
               "EditorCaption": ""
@@ -143,11 +143,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
