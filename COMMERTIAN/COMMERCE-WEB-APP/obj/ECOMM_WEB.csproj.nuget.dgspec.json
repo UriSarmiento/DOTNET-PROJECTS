@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM_WEB.csproj": {}
+    "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM_WEB.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM_WEB.csproj": {
+    "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM_WEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM_WEB.csproj",
+        "projectUniqueName": "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM_WEB.csproj",
         "projectName": "ECOMM_WEB",
-        "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM_WEB.csproj",
+        "projectPath": "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP\\ECOMM_WEB.csproj",
         "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP\\obj\\",
+        "outputPath": "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj": {
-                "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj"
+              "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj": {
+                "projectPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj"
               },
-              "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {
-                "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj"
+              "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {
+                "projectPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj"
               }
             }
           }
@@ -56,23 +56,35 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -98,14 +110,14 @@
         }
       }
     },
-    "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj": {
+    "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj",
+        "projectUniqueName": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj",
         "projectName": "ECOMM.DataAccess",
-        "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj",
+        "projectPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.DataAccess\\ECOMM.DataAccess.csproj",
         "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.DataAccess\\obj\\",
+        "outputPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -126,11 +138,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {
-                "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj"
+              "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {
+                "projectPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj"
               },
-              "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj": {
-                "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj"
+              "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj": {
+                "projectPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj"
               }
             }
           }
@@ -150,23 +162,27 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -189,14 +205,14 @@
         }
       }
     },
-    "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {
+    "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
+        "projectUniqueName": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
         "projectName": "ECOMM.Models",
-        "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
+        "projectPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Models\\ECOMM.Models.csproj",
         "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Models\\obj\\",
+        "outputPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -236,21 +252,25 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.3, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [
@@ -276,14 +296,14 @@
         }
       }
     },
-    "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj": {
+    "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj",
+        "projectUniqueName": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj",
         "projectName": "ECOMM.Utility",
-        "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj",
+        "projectPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Utility\\ECOMM.Utility.csproj",
         "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\ECOMM.Utility\\obj\\",
+        "outputPath": "D:\\Curso Dotnet\\COMMERTIAN\\ECOMM.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -323,21 +343,21 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0-preview.6.23329.4, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

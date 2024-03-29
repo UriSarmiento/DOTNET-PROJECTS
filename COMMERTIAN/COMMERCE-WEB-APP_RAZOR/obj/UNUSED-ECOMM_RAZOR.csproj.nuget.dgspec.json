@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj": {}
+    "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj": {}
   },
   "projects": {
-    "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj": {
+    "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj",
+        "projectUniqueName": "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj",
         "projectName": "UNUSED-ECOMM_RAZOR",
-        "projectPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj",
+        "projectPath": "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\UNUSED-ECOMM_RAZOR.csproj",
         "packagesPath": "C:\\Users\\uriel\\.nuget\\packages\\",
-        "outputPath": "D:\\DOTNET-PROJECTS\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\obj\\",
+        "outputPath": "D:\\Curso Dotnet\\COMMERTIAN\\COMMERCE-WEB-APP_RAZOR\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

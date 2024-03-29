@@ -36,7 +36,7 @@ namespace ECOMM.DataAccess.Repository
 				objFromDB.Author = obj.Author;
                 if (obj.ImageUrl is not null)
                 {
-					obj.ImageUrl = obj.ImageUrl;
+                    objFromDB.ImageUrl = obj.ImageUrl;
 
 				}
 

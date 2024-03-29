@@ -13,3 +13,18 @@ C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Model
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.pdb
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.genruntimeconfig.cache
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ref\ECOMM.Models.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\bin\Debug\net8.0\ECOMM.Models.deps.json
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\bin\Debug\net8.0\ECOMM.Models.runtimeconfig.json
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\bin\Debug\net8.0\ECOMM.Models.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\bin\Debug\net8.0\ECOMM.Models.pdb
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.csproj.AssemblyReference.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.AssemblyInfoInputs.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.AssemblyInfo.cs
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.csproj.CoreCompileInputs.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.sourcelink.json
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\refint\ECOMM.Models.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.pdb
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ECOMM.Models.genruntimeconfig.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Models\obj\Debug\net8.0\ref\ECOMM.Models.dll

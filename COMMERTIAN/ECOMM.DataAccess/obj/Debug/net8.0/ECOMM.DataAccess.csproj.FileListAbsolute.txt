@@ -18,3 +18,23 @@ C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataA
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.genruntimeconfig.cache
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ref\ECOMM.DataAccess.dll
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.Da.79DD7DD9.Up2Date
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\bin\Debug\net8.0\ECOMM.DataAccess.deps.json
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\bin\Debug\net8.0\ECOMM.DataAccess.runtimeconfig.json
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\bin\Debug\net8.0\ECOMM.DataAccess.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\bin\Debug\net8.0\ECOMM.DataAccess.pdb
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\bin\Debug\net8.0\ECOMM.Models.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\bin\Debug\net8.0\ECOMM.Utility.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\bin\Debug\net8.0\ECOMM.Models.pdb
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\bin\Debug\net8.0\ECOMM.Utility.pdb
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.csproj.AssemblyReference.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.AssemblyInfoInputs.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.AssemblyInfo.cs
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.csproj.CoreCompileInputs.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.sourcelink.json
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.Da.79DD7DD9.Up2Date
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\refint\ECOMM.DataAccess.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.pdb
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ECOMM.DataAccess.genruntimeconfig.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.DataAccess\obj\Debug\net8.0\ref\ECOMM.DataAccess.dll

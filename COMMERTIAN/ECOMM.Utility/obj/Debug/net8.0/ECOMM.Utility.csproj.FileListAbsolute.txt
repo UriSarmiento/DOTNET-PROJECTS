@@ -13,3 +13,18 @@ C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utili
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.pdb
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.genruntimeconfig.cache
 C:\Users\uriel\OneDrive\Documentos\GitHub\DOTNET-PROJECTS\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ref\ECOMM.Utility.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\bin\Debug\net8.0\ECOMM.Utility.deps.json
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\bin\Debug\net8.0\ECOMM.Utility.runtimeconfig.json
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\bin\Debug\net8.0\ECOMM.Utility.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\bin\Debug\net8.0\ECOMM.Utility.pdb
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.csproj.AssemblyReference.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.AssemblyInfoInputs.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.AssemblyInfo.cs
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.csproj.CoreCompileInputs.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.sourcelink.json
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\refint\ECOMM.Utility.dll
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.pdb
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ECOMM.Utility.genruntimeconfig.cache
+D:\Curso Dotnet\COMMERTIAN\ECOMM.Utility\obj\Debug\net8.0\ref\ECOMM.Utility.dll
